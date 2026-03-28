@@ -1,0 +1,8 @@
+Utilities\ScreenRecorderUtil.class
+Utilities\ScreenshotUtil.class
+testBase\baseClass.class
+testCases\AccRegisterTc.class
+pageObject\BasePage.class
+pageObject\RegisterPage.class
+Utilities\ExtentReportManager.class
+pageObject\HomePage.class

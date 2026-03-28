@@ -1,0 +1,22 @@
+2026-03-28 13:19:05 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 13:19:17 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 13:20:33 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-28 13:20:33 INFO  testCases.AccRegisterTc - ---- Starting Test Case ----
+2026-03-28 13:21:29 INFO  testCases.AccRegisterTc - ---- Providing Customer Details ----
+2026-03-28 13:21:45 INFO  testCases.AccRegisterTc - ---- Account created successfully ----
+2026-03-28 13:21:45 INFO  testCases.AccRegisterTc - ---- Returned to Homepage ----
+2026-03-28 13:21:46 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-28 14:44:27 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 14:44:33 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 14:44:35 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-28 14:44:41 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-28 14:45:58 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 14:46:01 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 14:46:03 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-28 14:46:08 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-28 15:14:56 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 15:15:01 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 15:15:14 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-28 15:15:24 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-28 15:28:42 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 15:28:46 INFO  testCases.AccRegisterTc - Chrome Browser launched

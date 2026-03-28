@@ -1,0 +1,25 @@
+2026-03-14 15:54:30 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 15:54:33 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-14 15:54:33 INFO  testCases.AccRegisterTc - ---- Starting Test Case ----
+2026-03-14 15:54:34 INFO  testCases.AccRegisterTc - ---- Providing Customer Details ----
+2026-03-14 15:54:37 INFO  testCases.AccRegisterTc - ---- Account created successfully ----
+2026-03-14 15:54:38 INFO  testCases.AccRegisterTc - ---- Returned to Homepage ----
+2026-03-14 15:54:38 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-14 15:55:42 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 15:55:44 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-14 15:55:44 INFO  testCases.AccRegisterTc - ---- Starting Test Case ----
+2026-03-14 15:55:45 INFO  testCases.AccRegisterTc - ---- Providing Customer Details ----
+2026-03-14 15:55:48 INFO  testCases.AccRegisterTc - ---- Account created successfully ----
+2026-03-14 15:55:49 INFO  testCases.AccRegisterTc - ---- Returned to Homepage ----
+2026-03-14 15:55:49 INFO  testCases.AccRegisterTc - Browser closed
+2026-03-14 16:09:43 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 16:11:38 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 16:17:08 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 16:20:21 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 16:21:51 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-14 16:21:53 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-14 16:21:53 INFO  testCases.AccRegisterTc - ---- Starting Test Case ----
+2026-03-14 16:21:53 INFO  testCases.AccRegisterTc - ---- Providing Customer Details ----
+2026-03-14 16:21:56 INFO  testCases.AccRegisterTc - ---- Account created successfully ----
+2026-03-14 16:21:57 INFO  testCases.AccRegisterTc - ---- Returned to Homepage ----
+2026-03-14 16:21:57 INFO  testCases.AccRegisterTc - Browser closed
