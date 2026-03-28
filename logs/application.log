@@ -20,3 +20,7 @@
 2026-03-28 15:15:24 INFO  testCases.AccRegisterTc - Browser closed
 2026-03-28 15:28:42 INFO  testCases.AccRegisterTc - Running tests on OS: windows
 2026-03-28 15:28:46 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 20:52:28 INFO  testCases.AccRegisterTc - Running tests on OS: windows
+2026-03-28 20:52:35 INFO  testCases.AccRegisterTc - Chrome Browser launched
+2026-03-28 20:52:37 INFO  testCases.AccRegisterTc - Application launched successfully
+2026-03-28 20:52:44 INFO  testCases.AccRegisterTc - Browser closed

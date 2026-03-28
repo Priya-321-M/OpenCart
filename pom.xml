@@ -53,13 +53,6 @@
 			<version>2.25.3</version>
 		</dependency>
 
-		<!-- video -->
-
-		<dependency>
-			<groupId>com.aventstack</groupId>
-			<artifactId>extentreports</artifactId>
-			<version>5.1.2</version>
-		</dependency>
 
 		<dependency>
 			<groupId>commons-io</groupId>
@@ -67,6 +60,7 @@
 			<version>2.16.1</version>
 		</dependency>
 
+		<!-- video -->
 		<dependency>
 			<groupId>com.automation-remarks</groupId>
 			<artifactId>video-recorder-core</artifactId>
